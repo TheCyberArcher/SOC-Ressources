@@ -32,6 +32,7 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
+|[Sentinel & Defender KQL](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | |
 |[Awesome KQL](https://github.com/cylaris/awesomekql) |  |
 |[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | |
 |[Splunk Queries](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
