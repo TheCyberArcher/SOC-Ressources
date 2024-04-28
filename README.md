@@ -9,7 +9,8 @@ Threat Intelligence ressources repository
 | [Mitre Attack](https://attack.mitre.org/campaigns/) | APT group and campaign list |
 | [Ransomwatch](https://ransomwatch.telemetry.ltd/#/recentposts) | Track Ransomware and leak activity over the web |
 | [FBI Internet Crime Report](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf) | |
-| [FBI Fraud Report](https://www.ic3.gov/Media/PDF/AnnualReport/2022_IC3ElderFraudReport.pdf)
+| [FBI Fraud Report](https://www.ic3.gov/Media/PDF/AnnualReport/2022_IC3ElderFraudReport.pdf) | | 
+| [CISA Top Vulnerabilites](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a) | |
 
 
 
