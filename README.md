@@ -9,11 +9,10 @@ Threat Intelligence ressources repository
 | [Mitre](https://attack.mitre.org/campaigns/) | Description |
 
 
-# CTI plaforms 
+### Intelligence Tools
 
 | Website | Description |
 |  | Description |
-
 
 
 ### Malware Sample 
@@ -25,9 +24,4 @@ https://github.com/Pyran1/MalwareDatabase |
 
 
 
-### Framework and methods
-
-
-
-
-### APT Documentation
+### SOC EDR and SIEM ressources
