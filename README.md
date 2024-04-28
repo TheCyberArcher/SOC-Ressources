@@ -1,7 +1,7 @@
 # SOC-Ressources
 Threat Intelligence ressources repository
 
-### APT Monitoring
+### Cybercrime Monitoring
 
 | Website | Description |
 | --- | --- |
@@ -12,7 +12,7 @@ Threat Intelligence ressources repository
 
 
 
-### Intelligence Tools
+### SOC Intelligence Online Tools
 
 | Website | Description |
 | --- | --- |
@@ -41,9 +41,7 @@ Threat Intelligence ressources repository
 
 
 
-
-
-### SOC Analyst - EDR/SIEM
+### SOC Analyst - EDR/SIEM - Lots of queries to help you investigate
 
 | Website | Description |
 | --- | --- |
