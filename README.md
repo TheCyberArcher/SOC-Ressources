@@ -1,4 +1,4 @@
-# CTI-SOC-Ressources
+# SOC-Ressources
 Threat Intelligence ressources repository
 
 ### APT Monitoring
