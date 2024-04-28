@@ -5,7 +5,7 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-| [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/master/2023/2023.01.09.Emotet_return) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports. |
+| [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/master/2023/2023.01.09.Emotet_return) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. |
 | [Mitre](https://attack.mitre.org/campaigns/) | Description |
 
 
@@ -19,7 +19,8 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-https://github.com/Pyran1/MalwareDatabase |
+| [MalwareDatabase](https://github.com/Pyran1/MalwareDatabase ) | Malware Sample repository |
+
 
 
 
