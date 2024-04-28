@@ -25,6 +25,9 @@ Threat Intelligence ressources repository
 | [MalwareDatabase](https://github.com/Pyran1/MalwareDatabase ) | Malware Sample repository |
 | [VXunderground](https://github.com/vxunderground) | |
 | [Malware-Feed](https://github.com/MalwareSamples/Malware-Feed) | |
+| [Malware-Bazard](MalwareBazaar) | |
+| [Malware-Sample](https://github.com/jstrosch/malware-samples) | |
+| [TheZoo](https://github.com/ytisf/theZoo) | |
 
 
 
