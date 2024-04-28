@@ -16,16 +16,16 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-| [AbuseIP](https://www.abuseipdb.com/) | |
-| [CriminalIP](https://www.criminalip.io/) | |
-| [UrlScan](https://urlscan.io/) | |
-| [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | |
-| [JoeSandbow](https://www.joesandbox.com/) | Description |
-| [Yomi](https://yomi.yoroi.company/upload) | |
-| [VirusTotal](https://virustotal.com) | |
-| [Hybrid Analysis](https://www.hybrid-analysis.com/) | |
-| [DocGuard](https://app.docguard.io/) | |
-| [MxToolBox](https://mxtoolbox.com/) | |
+| [AbuseIP](https://www.abuseipdb.com/) | Check IP reputation online and through public feeds |
+| [CriminalIP](https://www.criminalip.io/) | First IP Malware Activity Checker Site |
+| [UrlScan](https://urlscan.io/) | Scan a site's URL to find out if it is linked to suspicious activities |
+| [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
+| [JoeSandbow](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
+| [Yomi](https://yomi.yoroi.company/upload) | A performance sandbox to analyze your malware |
+| [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
+| [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
+| [DocGuard](https://app.docguard.io/) | A document analyzer, malicious VB macros, hidden scripts... |
+| [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 
 
 ### Malware Sample 
