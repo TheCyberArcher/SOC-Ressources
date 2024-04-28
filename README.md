@@ -41,7 +41,7 @@ Threat Intelligence ressources repository
 
 
 
-### SOC Analyst - HUNTING
+### SOC Analyst - Hunting ressources
 
 | Website | Description |
 | --- | --- |
