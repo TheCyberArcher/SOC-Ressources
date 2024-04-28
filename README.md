@@ -30,7 +30,7 @@ Threat Intelligence ressources repository
 
 ### SOC EDR and SIEM ressources
 | --- | --- |
-| MDE KQL |
-| Splunk Queries | https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst |
+| MDE KQL | |
+| [Splunk Queries](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |  |
 
 ### Monitoring
