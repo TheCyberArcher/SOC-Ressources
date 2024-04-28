@@ -61,6 +61,24 @@ Threat Intelligence ressources repository
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 
+### Threat Maps 
+
+| Website | Description |
+| --- | --- |
+|[Checkpoint](https://threatmap.checkpoint.com/) | 
+|[Kaspersky](https://cybermap.kaspersky.com/) |
+|[Radware](https://livethreatmap.radware.com/) | 
+|[Fortinet](https://threatmap.fortiguard.com/) |
+|[Bitdefender](https://threatmap.bitdefender.com/) |
+
 ### Course / documentation
+
+
+
+### News Websites 
+
+| Website | Description |
+| --- | --- |
+| [TheHackerNews](https://thehackernews.com/) | |
 
 
