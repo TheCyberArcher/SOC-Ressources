@@ -32,7 +32,8 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-| MDE KQL |  |
+|[Awesome KQL](https://github.com/cylaris/awesomekql) |  |
+|[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | |
 |[Splunk Queries](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
 
 ### Monitoring
