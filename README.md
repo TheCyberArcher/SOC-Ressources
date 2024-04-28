@@ -21,6 +21,7 @@ Threat Intelligence ressources repository
 | [UrlScan](https://urlscan.io/) | |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | |
 | [JoeSandbow](https://www.joesandbox.com/) | Description |
+| [Yomi](https://yomi.yoroi.company/upload) | |
 | [VirusTotal](https://virustotal.com) | |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | |
 | [DocGuard](https://app.docguard.io/) | |
