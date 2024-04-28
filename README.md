@@ -19,6 +19,7 @@ Threat Intelligence ressources repository
 | [AbuseIP](https://www.abuseipdb.com/) | |
 | [CriminalIP](https://www.criminalip.io/) | |
 | [UrlScan](https://urlscan.io/) | |
+| [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | |
 | [JoeSandbow](https://www.joesandbox.com/) | Description |
 | [VirusTotal](https://virustotal.com) | |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | |
