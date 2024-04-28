@@ -41,7 +41,7 @@ Threat Intelligence ressources repository
 
 
 
-### SOC Analyst - EDR/SIEM
+### SOC Analyst - HUNTING
 
 | Website | Description |
 | --- | --- |
