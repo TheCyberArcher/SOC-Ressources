@@ -33,11 +33,11 @@ Threat Intelligence ressources repository
 | Website | Description |
 | --- | --- |
 | [MalwareDatabase](https://github.com/Pyran1/MalwareDatabase ) | Malware Sample repository |
-| [VXunderground](https://github.com/vxunderground) | |
-| [Malware-Feed](https://github.com/MalwareSamples/Malware-Feed) | |
-| [Malware-Bazard](MalwareBazaar) | |
-| [Malware-Sample](https://github.com/jstrosch/malware-samples) | |
-| [TheZoo](https://github.com/ytisf/theZoo) | |
+| [VXunderground](https://github.com/vxunderground) | Virus source code, online, free |
+| [Malware-Feed](https://github.com/MalwareSamples/Malware-Feed) | Repository and list of the most active malware |
+| [Malware-Bazard](MalwareBazaar) | Collect samples for your tests from the most famous database in the world |
+| [Malware-Sample](https://github.com/jstrosch/malware-samples) | Another repository, offering up-to-date samples |
+| [TheZoo](https://github.com/ytisf/theZoo) | New repo, active, offering tons of malware samples |
 
 
 
