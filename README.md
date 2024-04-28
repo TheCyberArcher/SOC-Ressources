@@ -20,6 +20,9 @@ Threat Intelligence ressources repository
 | [CriminalIP](https://www.criminalip.io/) | |
 | [UrlScan](https://urlscan.io/) | |
 | [JoeSandbow](https://www.joesandbox.com/) | Description |
+| [VirusTotal](https://virustotal.com) | |
+| [Hybrid Analysis](https://www.hybrid-analysis.com/) | |
+| [DocGuard](https://app.docguard.io/) | |
 
 
 ### Malware Sample 
