@@ -35,7 +35,9 @@ Threat Intelligence ressources repository
 |[Sentinel & Defender KQL](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | |
 |[Awesome KQL](https://github.com/cylaris/awesomekql) |  |
 |[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | |
+|[Threat-Hunting-KQL](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/blob/main/Defense%20Evasion/DLL%20Hijacking%20-%20HijackLibs.md) |
 |[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
+|[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
 
 ### Monitoring
