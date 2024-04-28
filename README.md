@@ -45,4 +45,6 @@ Threat Intelligence ressources repository
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
 
-### Monitoring
+### Course / documentation
+
+
