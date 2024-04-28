@@ -8,7 +8,8 @@ Threat Intelligence ressources repository
 | [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/master/2023/2023.01.09.Emotet_return) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. |
 | [Mitre Attack](https://attack.mitre.org/campaigns/) | APT group and campaign list |
 | [Ransomwatch](https://ransomwatch.telemetry.ltd/#/recentposts) | Track Ransomware and leak activity over the web |
-
+| [FBI Internet Crime Report](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf) | |
+| [FBI Fraud Report](https://www.ic3.gov/Media/PDF/AnnualReport/2022_IC3ElderFraudReport.pdf)
 
 
 
