@@ -1,4 +1,4 @@
-# CTI-Ressources
+# CTI-SOC-Ressources
 Threat Intelligence ressources repository
 
 ### APT Documentation
