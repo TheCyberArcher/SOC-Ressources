@@ -53,6 +53,7 @@ Threat Intelligence ressources repository
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
+|[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 
 ### Course / documentation
 
