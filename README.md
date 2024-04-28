@@ -52,6 +52,7 @@ Threat Intelligence ressources repository
 |[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
+|[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 
 ### Course / documentation
 
