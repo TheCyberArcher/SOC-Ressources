@@ -13,6 +13,7 @@ Threat Intelligence ressources repository
 | [CISA Top Vulnerabilites](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a) | |
 | [Sophos Ransomware report](https://assets.sophos.com/X24WTUEQ/at/c949g7693gsnjh9rb9gr8/sophos-state-of-ransomware-2023-wp.pdf)
 | [SpyCloud Exposure report](https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-report-2023-identity-exposure-report.pdf)
+| [NIST Cybersecurity](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf) | |
 
 
 
