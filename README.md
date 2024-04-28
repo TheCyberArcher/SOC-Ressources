@@ -37,7 +37,7 @@ Threat Intelligence ressources repository
 | [Malware-Feed](https://github.com/MalwareSamples/Malware-Feed) | Repository and list of the most active malware |
 | [Malware-Bazard](MalwareBazaar) | Collect samples for your tests from the most famous database in the world |
 | [Malware-Sample](https://github.com/jstrosch/malware-samples) | Another repository, offering up-to-date samples |
-| [TheZoo](https://github.com/ytisf/theZoo) | New repo, active, offering tons of malware samples |
+| [TheZoo](https://github.com/ytisf/theZoo) | New repo, active, offering malwares samples |
 
 
 
