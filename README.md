@@ -75,6 +75,7 @@
 |[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) | Most Useful SPLUNK Queries for SOC Analysts  |
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | Compilation of Splunk queries collected and used over time |
 |[sserrato Splunk Queries](https://github.com/sserrato/SplunkQueries) | These are example so of queries I've run on Apache and Window Servers Logs as part of a 2022 course on cybersecurity where I was using Splunk for SOC monitoring |
+|[threathuntingspl](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) | This is a repository to store Splunk code (SPL) and prototypes useful for building rules (correlation searches) and queries to find and hunt for malicious activity. |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | IBM Documentation for AQL queries |
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
