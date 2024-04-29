@@ -98,7 +98,7 @@ Threat Intelligence ressources repository
 | [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | | 
 | [SecurityBlueTeam](https://www.securityblue.team/) | |
 | [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | |
-| [Microsoft SC200](https://learn.microsoft.com/en-us/training/courses/sc-200t00) | |
+| [Microsoft SC200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) | |
 | [Splunk CCDA](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | |
 | [IBM SOCA](https://www.ibm.com/training/certification/ibm-certified-soc-analyst-ibm-qradar-siem-v732-C0000801) | |
 
