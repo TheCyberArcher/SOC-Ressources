@@ -18,7 +18,7 @@ Threat Intelligence ressources repository
 
 
 
-### SOC Intelligence Online Tools
+### :mag_right: SOC Intelligence Online Tools
 
 | Website | Description |
 | --- | --- |
