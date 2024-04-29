@@ -89,9 +89,13 @@ Threat Intelligence ressources repository
 | --- | --- |
 | [RootMe](https://www.root-me.org/?lang=en) | |
 | [HackTheBox](https://www.hackthebox.com/) | |
+| [TryHackMe](https://tryhackme.com/) | |
 | [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
 | [Let's defends](https://www.letsdefend.io/) | |
 | [ICSI](https://icsiglobal.com/) | |
+| [EC-Council](https://www.eccouncil.org/) | |
+| [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | | 
+| [SecurityBlueTeam](https://www.securityblue.team/) | |
 
 
 </br>
