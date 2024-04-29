@@ -93,5 +93,7 @@ Threat Intelligence ressources repository
 | Website | Description |
 | --- | --- |
 | [TheHackerNews](https://thehackernews.com/) | |
+| [DarkReading](https://www.darkreading.com/) | |
+| [Cybersecurity Hub](https://www.cshub.com/) | |
 
 
