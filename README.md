@@ -1,4 +1,4 @@
-#SOC-RESSOURCES
+# SOC-RESSOURCES
 
 >Are you starting a career as a SOC analyst? Or do you simply want to get a list of the most used tools in the cyber world? This repository is made for you, whether you are a level 1 or in a more advanced branch, you will find all the resources to make your work easier. Remember, the priority is to properly detect and identify the threat, so use everything you have at hand and avoid the crisis !
 
