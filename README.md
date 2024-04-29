@@ -110,6 +110,8 @@
 | [Splunk CCDA](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | Validate your skills to start as a SOC analyst using Splunk analytics, threat-hunting, risk-based alerting and industry best practices.  |
 | [IBM SOCA](https://www.ibm.com/training/certification/ibm-certified-soc-analyst-ibm-qradar-siem-v732-C0000801) | This intermediate level certification targets analysts that have knowledge and technical skills in CompTIA Cybersecurity and IBM Security QRadar SIEM |
 | [Cisco SOC](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US) | Free Course Junior SOC Analyst from Skill4All |
+| [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) | CompTIA Cybersecurity Analyst (CySA+) is a certification for cyber professionals tasked with incident detection, prevention and response through continuous security monitoring. | 
+| [CompTIA Security+](https://www.comptia.org/certifications/security) | CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career. | 
 
 
 </br>
@@ -132,6 +134,8 @@
 | [Talos Itelligence](https://blog.talosintelligence.com/) | |
 | [TheGuardian/Cyber](https://www.theguardian.com/media-network/information-security) | |
 | [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | |
+| [r/SecurityCareerAdvice/](https://www.reddit.com/r/SecurityCareerAdvice/) | |
+| [/r/netsec/](https://www.reddit.com/r/netsec/) | |
 
 </br>
 
