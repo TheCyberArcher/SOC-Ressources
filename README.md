@@ -79,6 +79,7 @@
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 |[KQL for network OPS](https://kqlquery.com/posts/kql-for-network-operations/) | If you query data that contains IP addresses this blog is something for you!  | 
 | [KQL for Sec OPS](https://kqlquery.com/posts/kql-for-security-operations/) | In recent years Kusto Query Language (KQL) has gotten a more and ever increasing place in the cyber security world |
+| [FalconFriday](https://github.com/FalconForceTeam/FalconFriday/tree/master/) | MDE hunting queries to detect offensive techniques |
 
 </br>
 
