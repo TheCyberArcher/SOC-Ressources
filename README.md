@@ -38,6 +38,8 @@ Threat Intelligence ressources repository
 | [DocGuard](https://app.docguard.io/) | A document analyzer, malicious VB macros, hidden scripts... |
 | [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
+| [CyberChief](https://cyberchef.org/) | CyberChef is a web app that allows you to create and run recipes of data manipulation operations. You can use it to encrypt, decode, compress, analyze and transform data in various ways |
+| [
 
 </br>
 
