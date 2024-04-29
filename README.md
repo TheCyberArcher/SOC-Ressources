@@ -58,9 +58,9 @@ Threat Intelligence ressources repository
 |[Awesome KQL](https://github.com/cylaris/awesomekql) | Awesome repository of detection R&D created exclusively by the Cylaris Threat Research Group |
 |[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | Some tips, tricks and examples for using KQL for Microsoft Sentinel. |
 |[Threat-Hunting-KQL](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/blob/main/Defense%20Evasion/) | Repository for threat hunting and detection queries, tools, etc. |
-|[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
-|[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
-|[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
+|[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) | Most Useful SPLUNK Queries for SOC Analysts  |
+|[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | Compilation of Splunk queries collected and used over time |
+|[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | IBM Documentation for AQL queries |
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 
