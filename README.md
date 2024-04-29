@@ -88,9 +88,9 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-| [RootMe](https://www.root-me.org/?lang=en) | |
-| [HackTheBox](https://www.hackthebox.com/) | |
-| [TryHackMe](https://tryhackme.com/) | |
+| [RootMe](https://www.root-me.org/?lang=en) | Train your hacking skills on various exercises and virtual environments |
+| [HackTheBox](https://academy.hackthebox.com/path/preview/soc-analyst) | This path covers core security monitoring and security analysis concepts and provides a deep understanding of the specialized tools, attack tactics, and methodology used by adversaries |
+| [TryHackMe](https://tryhackme.com/path/outline/soclevel1) | In the Junior Security Analyst role, you will be a Triage Specialist. You will spend a significant portion of your time triaging or monitoring the event logs and alerts. |
 | [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
 | [Let's defends](https://www.letsdefend.io/) | |
 | [ICSI](https://icsiglobal.com/) | |
