@@ -96,8 +96,8 @@ Threat Intelligence ressources repository
 | [ICSI](https://icsiglobal.com/) | SOC Analyst courses, Network Defense, Penstesting, Crest Approved. |
 | [ECC SOC-A](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/) | Engineered for current and aspiring Tier I and Tier II SOC analysts to achieve proficiency in performing entry-level and intermediate-level operations |
 | [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | Learn the foundations of cybersecurity defense with Foundational Security Operations and Defensive Analysis (SOC-200) | 
-| [SecurityBlueTeam](https://www.securityblue.team/) | |
-| [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | |
+| [SecurityBlueTeam](https://www.securityblue.team/) |  BTL1 has been trusted around the world to train thousands of technical defenders in governments, CERTs, law enforcement, military units, MSSPs, financial institutions, critical national infrastructure, and more. |
+| [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | A cyber defense analyst uses defensive measures and information collected from a variety of sources to identify, analyze, and report events that occur or might occur within the network to protect information, information systems, and networks from threats. |
 | [Microsoft SC200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) | |
 | [Splunk CCDA](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | |
 | [IBM SOCA](https://www.ibm.com/training/certification/ibm-certified-soc-analyst-ibm-qradar-siem-v732-C0000801) | |
