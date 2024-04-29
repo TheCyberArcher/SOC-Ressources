@@ -54,10 +54,10 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-|[Sentinel & Defender KQL](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | |
-|[Awesome KQL](https://github.com/cylaris/awesomekql) |  |
-|[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | |
-|[Threat-Hunting-KQL](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/blob/main/Defense%20Evasion/DLL%20Hijacking%20-%20HijackLibs.md) |
+|[Sentinel & Defender KQL](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | KQL queries that can be used by anyone and are understandable. These queries are intended to increase detection coverage through the logs of Microsoft Security products |
+|[Awesome KQL](https://github.com/cylaris/awesomekql) | Awesome repository of detection R&D created exclusively by the Cylaris Threat Research Group |
+|[Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) | Some tips, tricks and examples for using KQL for Microsoft Sentinel. |
+|[Threat-Hunting-KQL](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/blob/main/Defense%20Evasion/) | Repository for threat hunting and detection queries, tools, etc. |
 |[Splunk Queries SOC](https://github.com/labibhossen/Splunk-Queries-for-SOC-Analyst) |   |
 |[Splunk queries](https://github.com/shauntdergrigorian/splunkqueries) | |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | |
