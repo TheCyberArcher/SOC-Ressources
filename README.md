@@ -75,11 +75,11 @@ Threat Intelligence ressources repository
 
 | Website | Description |
 | --- | --- |
-|[Checkpoint](https://threatmap.checkpoint.com/) | 
-|[Kaspersky](https://cybermap.kaspersky.com/) |
-|[Radware](https://livethreatmap.radware.com/) | 
-|[Fortinet](https://threatmap.fortiguard.com/) |
-|[Bitdefender](https://threatmap.bitdefender.com/) |
+|[Checkpoint](https://threatmap.checkpoint.com/) | See LIVE cyber attacks now with threat map |
+|[Kaspersky](https://cybermap.kaspersky.com/) | Find out if you're under cyber-attack here |
+|[Radware](https://livethreatmap.radware.com/) |  Radware's Live Threat Map presents near real-time information about cyberattacks as they occur, based on our global threat deception network and cloud systems event information |
+|[Fortinet](https://threatmap.fortiguard.com/) |  Is your network security keeping up with the latest threats? |
+|[Bitdefender](https://threatmap.bitdefender.com/) | Bitdefender Advanced Threat Defense Cyber Map |
 
 </br>
 
