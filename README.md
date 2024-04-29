@@ -82,7 +82,7 @@
 | [FalconFriday](https://github.com/FalconForceTeam/FalconFriday/tree/master/) | MDE hunting queries to detect offensive techniques |
 | [AzSentinelQueries](https://github.com/f-bader/AzSentinelQueries) |  Sentinel hunting queries and Analytics rules |
 | [KQL](https://github.com/LearningKijo/KQL) | Therefore, in this repository on KQL-XDR-Hunting, I will be sharing 'out-of-the-box' KQL queries based on feedback, security blogs, and new cyber attacks to assist you in your threat hunting |
-| [Advanced Hunting KQL](https://github.com/lawndoc/AdvancedHuntingQueries) | My collection of Microsoft 365 Advanced Hunting Queries written in Kusto Query Language (KQL) |
+| [Advanced Hunting KQL](https://github.com/lawndoc/AdvancedHuntingQueries) | Collection of Microsoft 365 Advanced Hunting Queries written in Kusto Query Language (KQL) |
 
 </br>
 
