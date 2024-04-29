@@ -94,7 +94,7 @@ Threat Intelligence ressources repository
 | [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
 | [Let's defends](https://www.letsdefend.io/) | |
 | [ICSI](https://icsiglobal.com/) | |
-| [EC-Council](https://www.eccouncil.org/) | |
+| [ECC SOC-A](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/) | |
 | [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | | 
 | [SecurityBlueTeam](https://www.securityblue.team/) | |
 | [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | |
