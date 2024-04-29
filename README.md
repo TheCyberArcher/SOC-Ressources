@@ -1,5 +1,4 @@
-# SOC-Ressources
-Threat Intelligence ressources repository
+[![text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png](https://i.postimg.cc/prmRnnFX/text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png)](https://postimg.cc/YLBJ50RJ)
 
 </br>
 
