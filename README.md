@@ -101,6 +101,7 @@ Threat Intelligence ressources repository
 | [Microsoft SC200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) | |
 | [Splunk CCDA](https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html) | |
 | [IBM SOCA](https://www.ibm.com/training/certification/ibm-certified-soc-analyst-ibm-qradar-siem-v732-C0000801) | |
+| [Cisco SOC](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US) | |
 
 
 </br>
