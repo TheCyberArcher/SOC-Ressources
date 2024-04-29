@@ -26,6 +26,7 @@
 | [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/2024/index.html) | This blog focuses on network traffic related to malware infections, mostly from Windows-based malware. |
 | [ANSSI Cyber Threat](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf) |  the Agency reports a steadily rising cyber threat level, against a backdrop of new geopolitical tensions and international events being held in France |
 | [Fortinet](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks) | Top 20 Most Common Types of Cybersecurity Attacks  | 
+| [CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/) | 10 Most Common Types of Cyber Attacks | 
 
 </br>
 
