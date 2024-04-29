@@ -37,7 +37,7 @@ Threat Intelligence ressources repository
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
 
 
-### Malware Sample 
+### :space_invader: Malware Sample 
 
 | Website | Description |
 | --- | --- |
@@ -64,7 +64,7 @@ Threat Intelligence ressources repository
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 
-### Threat Maps 
+### :globe_with_meridians: Threat Maps 
 
 | Website | Description |
 | --- | --- |
@@ -78,7 +78,7 @@ Threat Intelligence ressources repository
 
 
 
-### News Websites 
+### :newspaper: News Websites 
 
 | Website | Description |
 | --- | --- |
