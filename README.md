@@ -91,11 +91,11 @@ Threat Intelligence ressources repository
 | [RootMe](https://www.root-me.org/?lang=en) | Train your hacking skills on various exercises and virtual environments |
 | [HackTheBox](https://academy.hackthebox.com/path/preview/soc-analyst) | This path covers core security monitoring and security analysis concepts and provides a deep understanding of the specialized tools, attack tactics, and methodology used by adversaries |
 | [TryHackMe](https://tryhackme.com/path/outline/soclevel1) | In the Junior Security Analyst role, you will be a Triage Specialist. You will spend a significant portion of your time triaging or monitoring the event logs and alerts. |
-| [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
-| [Let's defends](https://www.letsdefend.io/) | |
-| [ICSI](https://icsiglobal.com/) | |
-| [ECC SOC-A](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/) | |
-| [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | | 
+| [Coursera](https://www.coursera.org/courses?query=cybersecurity) | Coursera offers SOC analyst courses from IBM, Microsoft, PaloAlto and many other major players in the Cyber world | 
+| [Let's defends](https://www.letsdefend.io/) |  Develop the skills and experience to land a better job in cybersecurity |
+| [ICSI](https://icsiglobal.com/) | SOC Analyst courses, Network Defense, Penstesting, Crest Approved. |
+| [ECC SOC-A](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/) | Engineered for current and aspiring Tier I and Tier II SOC analysts to achieve proficiency in performing entry-level and intermediate-level operations |
+| [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | Learn the foundations of cybersecurity defense with Foundational Security Operations and Defensive Analysis (SOC-200) | 
 | [SecurityBlueTeam](https://www.securityblue.team/) | |
 | [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | |
 | [Microsoft SC200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) | |
