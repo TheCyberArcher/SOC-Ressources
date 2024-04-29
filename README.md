@@ -50,7 +50,7 @@ Threat Intelligence ressources repository
 
 
 
-### :shipit: SOC Analyst - Hunting ressources
+### :detective: SOC Analyst - Hunting ressources
 
 | Website | Description |
 | --- | --- |
