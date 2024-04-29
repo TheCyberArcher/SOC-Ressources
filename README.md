@@ -133,5 +133,10 @@
 | [TheGuardian/Cyber](https://www.theguardian.com/media-network/information-security) | |
 | [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | |
 
+### :eye: Other Awesome Githubs !!!
+
+| Website | Description |
+| --- | --- |
+| [9QIX/HTB-SOCAnalystPrerequisites](https://github.com/9QIX/HTB-SOCAnalystPrerequisites) | |
 
 
