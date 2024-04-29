@@ -103,6 +103,9 @@ Threat Intelligence ressources repository
 | [SecurityLedger](https://securityledger.com/) | |
 | [GBHackers](https://gbhackers.com/) | |
 | [HackRead](https://www.hackread.com/) | |
+| [Talos Itelligence](https://blog.talosintelligence.com/) | |
+| [TheGuardian/Cyber](https://www.theguardian.com/media-network/information-security) | |
+| [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | |
 
 
 
