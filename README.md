@@ -156,5 +156,6 @@
 | [SOC-Community/Awesome-SOC](https://github.com/SOC-Community/Awesome-SOC) | |
 | [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) | |
 | [awesome-list](https://github.com/mthcht/awesome-lists) | |
+| [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | |
 
 
