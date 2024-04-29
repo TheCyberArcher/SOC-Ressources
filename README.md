@@ -17,6 +17,7 @@ Threat Intelligence ressources repository
 | [SpyCloud Exposure report](https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-report-2023-identity-exposure-report.pdf) | Annual Identity Exposure Report unveils the latest cybercrime research, including data breach, malware & identity threat trends |
 | [NIST Cybersecurity](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf) | NIST collaborated with software developers, service providers, and users to develop secure software development guidance that is now mandatory for federal agency softwar e acquisition and use|
 | [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/2024/index.html) | This blog focuses on network traffic related to malware infections, mostly from Windows-based malware. |
+| [ANSSI Cyber Threat](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf) |  the Agency reports a steadily rising cyber threat level, against a backdrop of new geopolitical tensions and international events being held in France |
 
 </br>
 
