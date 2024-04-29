@@ -151,5 +151,6 @@
 | [9QIX/HTB-SOCAnalystPrerequisites](https://github.com/9QIX/HTB-SOCAnalystPrerequisites) | |
 | [SOC-Community/Awesome-SOC](https://github.com/SOC-Community/Awesome-SOC) | |
 | [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) | |
+| [awesome-list](https://github.com/mthcht/awesome-lists) | |
 
 
