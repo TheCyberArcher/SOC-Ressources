@@ -77,6 +77,8 @@
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | IBM Documentation for AQL queries |
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
+|[KQL for network OPS](https://kqlquery.com/posts/kql-for-network-operations/) | If you query data that contains IP addresses this blog is something for you!  | 
+| [KQL for Sec OPS](https://kqlquery.com/posts/kql-for-security-operations/) | In recent years Kusto Query Language (KQL) has gotten a more and ever increasing place in the cyber security world |
 
 </br>
 
