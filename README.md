@@ -98,6 +98,11 @@ Threat Intelligence ressources repository
 | [Cybersecurity News](https://cybersecuritynews.com/) | |
 | [Cyware](https://cyware.com/cyber-security-news-articles/) | |
 | [/r/Cybersecurity](https://www.reddit.com/r/cybersecurity/) | |
+| [InfoSecurity](https://www.infosecurity-magazine.com/) | |
+| [CyberdefenseMag](https://www.cyberdefensemagazine.com/) | |
+| [SecurityLedger](https://securityledger.com/) | |
+| [GBHackers](https://gbhackers.com/) | |
+| [HackRead](https://www.hackread.com/) | |
 
 
 
