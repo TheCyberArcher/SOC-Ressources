@@ -96,6 +96,7 @@ Threat Intelligence ressources repository
 | [EC-Council](https://www.eccouncil.org/) | |
 | [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | | 
 | [SecurityBlueTeam](https://www.securityblue.team/) | |
+| [PluralSight](https://www.pluralsight.com/paths/cyber-defense-analyst-or-pr-cda-001-or-work-role-511) | |
 
 
 </br>
