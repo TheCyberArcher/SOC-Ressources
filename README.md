@@ -83,7 +83,13 @@ Threat Intelligence ressources repository
 
 </br>
 
-### Course / documentation
+### :memo: Course / documentation
+
+| Website | Description |
+| --- | --- |
+| [RootMe](https://www.root-me.org/?lang=en) | |
+| [HackTheBox](https://www.hackthebox.com/) | |
+| [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
 
 
 </br>
