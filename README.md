@@ -90,6 +90,8 @@ Threat Intelligence ressources repository
 | [RootMe](https://www.root-me.org/?lang=en) | |
 | [HackTheBox](https://www.hackthebox.com/) | |
 | [Coursera](https://www.coursera.org/courses?query=cybersecurity) | | 
+| [Let's defends](https://www.letsdefend.io/) | |
+| [ICSI](https://icsiglobal.com/) | |
 
 
 </br>
