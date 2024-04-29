@@ -1,6 +1,8 @@
 # SOC-Ressources
 Threat Intelligence ressources repository
 
+</br>
+
 ### :cop: Cybercrime Monitoring
 
 | Website | Description |
@@ -16,7 +18,7 @@ Threat Intelligence ressources repository
 | [NIST Cybersecurity](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf) | NIST collaborated with software developers, service providers, and users to develop secure software development guidance that is now mandatory for federal agency softwar e acquisition and use|
 | [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/2024/index.html) | This blog focuses on network traffic related to malware infections, mostly from Windows-based malware. |
 
-
+</br>
 
 ### :mag_right: SOC Intelligence Online Tools
 
@@ -36,6 +38,7 @@ Threat Intelligence ressources repository
 | [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
 
+</br>
 
 ### :space_invader: Malware Sample 
 
@@ -48,6 +51,8 @@ Threat Intelligence ressources repository
 | [Malware-Sample](https://github.com/jstrosch/malware-samples) | Another repository, offering up-to-date samples |
 | [TheZoo](https://github.com/ytisf/theZoo) | New repo, active, offering malwares samples |
 
+
+</br>
 
 
 ### :detective: SOC Analyst - Hunting ressources
@@ -64,6 +69,8 @@ Threat Intelligence ressources repository
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 
+</br>
+
 ### :globe_with_meridians: Threat Maps 
 
 | Website | Description |
@@ -74,9 +81,12 @@ Threat Intelligence ressources repository
 |[Fortinet](https://threatmap.fortiguard.com/) |
 |[Bitdefender](https://threatmap.bitdefender.com/) |
 
+</br>
+
 ### Course / documentation
 
 
+</br>
 
 ### :newspaper: News Websites 
 
