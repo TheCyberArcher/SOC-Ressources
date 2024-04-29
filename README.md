@@ -158,5 +158,6 @@
 | [awesome-list](https://github.com/mthcht/awesome-lists) | |
 | [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | |
 | [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | |
+| [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | |
 
 
