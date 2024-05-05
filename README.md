@@ -49,6 +49,7 @@
 | [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
 | [CyberChief](https://cyberchef.org/) | CyberChef is a web app that allows you to create and run recipes of data manipulation operations. You can use it to encrypt, decode, compress, analyze and transform data in various ways |
+| [PcapTotal](https://lab.dynamite.ai/) | The platform is a successor to PacketTotal with over 100,000 PCAP files in its repository. Check IP a malicious behavior is present in a network pcap | 
 
 </br>
 
