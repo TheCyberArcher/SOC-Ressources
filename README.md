@@ -139,18 +139,18 @@
 | [DarkReading](https://www.darkreading.com/) | Dark Reading is a website that covers cybersecurity news, trends, and analysis. Find out the latest threats, vulnerabilities, breaches, and solutions for your organization. |
 | [Cybersecurity Hub](https://www.cshub.com/) | As a pioneer in the space, Cyber Security Hub is the definitive resource for the Cyber Security community. We gather global leaders around critical information in multiple formats, including daily commentary, interactive webinars, monthly events, and market reports... |
 | [Cybersecurity News](https://cybersecuritynews.com/) | Cyber Security News is an Independent news platform which covers all the happenings in the Cyber World. Here We cover Ongoing threats, Research papers, Vulnerability, Data breaches and more. |
-| [Cyware](https://cyware.com/cyber-security-news-articles/) | |
-| [/r/Cybersecurity](https://www.reddit.com/r/cybersecurity/) | |
-| [InfoSecurity](https://www.infosecurity-magazine.com/) | |
-| [CyberdefenseMag](https://www.cyberdefensemagazine.com/) | |
-| [SecurityLedger](https://securityledger.com/) | |
-| [GBHackers](https://gbhackers.com/) | |
-| [HackRead](https://www.hackread.com/) | |
-| [Talos Itelligence](https://blog.talosintelligence.com/) | |
-| [TheGuardian/Cyber](https://www.theguardian.com/media-network/information-security) | |
-| [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | |
-| [r/SecurityCareerAdvice/](https://www.reddit.com/r/SecurityCareerAdvice/) | |
-| [/r/netsec/](https://www.reddit.com/r/netsec/) | |
+| [Cyware](https://cyware.com/cyber-security-news-articles/) | Cyware's cybersecurity automation platform automates security alert aggregation and advisory sharing into one platform designed to drive real-time situational awareness, expedite potential threat information exchange, and foster collaboration between security teams |
+| [/r/Cybersecurity](https://www.reddit.com/r/cybersecurity/) | Join the discussion on cybersecurity topics, such as news, breaches, ransoms, tools, education, career, and more. Browse the latest posts, ask questions, share insights, and connect with other members of the r/cybersecurity subreddit |
+| [InfoSecurity](https://www.infosecurity-magazine.com/) | Infosecurity Magazine covers the latest news, opinions, webinars and white papers on information security and IT security topics. Find out about the US ban on Kaspersky, the LockBit ransomware, the NHS data breach and more |
+| [CyberdefenseMag](https://www.cyberdefensemagazine.com/) | Do you like to write about Cyber Security? Looking for a exciting platform for your cyber security content to be seen? Well you have come to the right place! Cyber Defense Magazine is the hottest, cyber security news outlet and magazine in the industry |
+| [SecurityLedger](https://securityledger.com/) | The Security Ledger is an independent security news website that explores the intersection of cyber security with business, commerce, politics and everyday life |
+| [GBHackers](https://gbhackers.com/) | GBHackers on security is a highly informative and reliable Cyber Security News platform that provides the latest and most relevant updates on Cyber Security News, Hacking News, Technology advancements, and Kali Linux tutorials on a daily basis |
+| [HackRead](https://www.hackread.com/) | Gateway to the world of the Internet that centers on Technology, Security, Privacy, Surveillance, Cyberwarfare, Cybercrime, and first-hand Hacking News, with full-scale reviews on Social Media Platforms. |
+| [Talos Itelligence](https://blog.talosintelligence.com/) | Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world. Comprised of world-class cyber security researchers, analysts and engineers and supported by unrivaled telemetry, Talos defends Cisco customers against known and emerging threats... |
+| [TheGuardian/Cyber](https://www.theguardian.com/media-network/information-security) | Get the latest news, sport and opinion from the Guardian's US edition, the world's leading liberal voice on politics, culture and society |
+| [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | The Proofpoint cybersecurity blog provides you with advanced cybersecurity intelligence and insights, threat research, and breaking cyber attack news. Get the latest news about advanced threats |
+| [r/SecurityCareerAdvice/](https://www.reddit.com/r/SecurityCareerAdvice/) | This is a place to connect those seeking to learn with those who have walked the path before. Ask your questions about cybersecurity careers here, and mentors can choose to answer as they have time |
+| [/r/netsec/](https://www.reddit.com/r/netsec/) | Join r/netsec, a community of technical information security enthusiasts, to share, discuss, and learn from the latest security content and news |
 
 </br>
 
