@@ -93,6 +93,7 @@
 | [KQL](https://github.com/LearningKijo/KQL) | Therefore, in this repository on KQL-XDR-Hunting, I will be sharing 'out-of-the-box' KQL queries based on feedback, security blogs, and new cyber attacks to assist you in your threat hunting |
 | [Advanced Hunting KQL](https://github.com/lawndoc/AdvancedHuntingQueries) | Collection of Microsoft 365 Advanced Hunting Queries written in Kusto Query Language (KQL) |
 | [Sekoia-io ressources](https://github.com/SEKOIA-IO/Community) | This repository contains IOCs, cyber threat intelligence materials, hunting queries, detection rules, playbooks and much more to help you make the most of the capabilities of SEKOIA.IO XDR |
+| [CrowdStrike community](https://github.com/CrowdStrike/logscale-community-content/wiki/FLTR-Hunting-and-Investigations) | This hunting guide teaches you how to hunt for adversaries, suspicious activities, suspicious processes, and vulnerabilities using Falcon telemetry in Falcon Long-Term Repository (FLTR) |
 
 </br>
 
