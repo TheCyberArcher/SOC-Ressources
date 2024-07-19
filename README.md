@@ -158,12 +158,12 @@
 
 | Website | Description |
 | --- | --- |
-| [9QIX/HTB-SOCAnalystPrerequisites](https://github.com/9QIX/HTB-SOCAnalystPrerequisites) | |
-| [SOC-Community/Awesome-SOC](https://github.com/SOC-Community/Awesome-SOC) | |
-| [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) | |
-| [awesome-list](https://github.com/mthcht/awesome-lists) | |
-| [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | |
-| [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | |
-| [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | |
+| [9QIX/HTB-SOCAnalystPrerequisites](https://github.com/9QIX/HTB-SOCAnalystPrerequisites) | This comprehensive learning journey spans 173 sections over 12 days, comprising 350 required cubes. The path delves into fundamental IT and Information Security subjects, covering networking, Linux and Windows operating systems, basic programming and scripting, and Assembly... |
+| [SOC-Community/Awesome-SOC](https://github.com/SOC-Community/Awesome-SOC) | A collection of sources of documentation, and field best practices, to build and run a SOC (including CSIRT) |
+| [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) | We just collected useful resources for SOC analysts and SOC analyst candidates. This repository is maintained by LetsDefend |
+| [awesome-list](https://github.com/mthcht/awesome-lists) | Security lists for SOC/DFIR detections |
+| [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
+| [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam by @a3cipher |
+| [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | Collection of free cybersecurity-related e-books available on KnowledgeHub |
 
 
