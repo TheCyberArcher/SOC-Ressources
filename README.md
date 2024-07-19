@@ -135,10 +135,10 @@
 
 | Website | Description |
 | --- | --- |
-| [TheHackerNews](https://thehackernews.com/) | |
-| [DarkReading](https://www.darkreading.com/) | |
-| [Cybersecurity Hub](https://www.cshub.com/) | |
-| [Cybersecurity News](https://cybersecuritynews.com/) | |
+| [TheHackerNews](https://thehackernews.com/) | The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news...  |
+| [DarkReading](https://www.darkreading.com/) | Dark Reading is a website that covers cybersecurity news, trends, and analysis. Find out the latest threats, vulnerabilities, breaches, and solutions for your organization. |
+| [Cybersecurity Hub](https://www.cshub.com/) | As a pioneer in the space, Cyber Security Hub is the definitive resource for the Cyber Security community. We gather global leaders around critical information in multiple formats, including daily commentary, interactive webinars, monthly events, and market reports... |
+| [Cybersecurity News](https://cybersecuritynews.com/) | Cyber Security News is an Independent news platform which covers all the happenings in the Cyber World. Here We cover Ongoing threats, Research papers, Vulnerability, Data breaches and more. |
 | [Cyware](https://cyware.com/cyber-security-news-articles/) | |
 | [/r/Cybersecurity](https://www.reddit.com/r/cybersecurity/) | |
 | [InfoSecurity](https://www.infosecurity-magazine.com/) | |
