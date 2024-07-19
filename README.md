@@ -163,7 +163,7 @@
 | [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) | We just collected useful resources for SOC analysts and SOC analyst candidates. This repository is maintained by LetsDefend |
 | [awesome-list](https://github.com/mthcht/awesome-lists) | Security lists for SOC/DFIR detections |
 | [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
-| [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam by @a3cipher |
+| [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam by a3cipher |
 | [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | Collection of free cybersecurity-related e-books available on KnowledgeHub |
 
 
