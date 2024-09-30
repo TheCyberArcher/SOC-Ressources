@@ -52,6 +52,7 @@
 | [PcapTotal](https://lab.dynamite.ai/) | The platform is a successor to PacketTotal with over 100,000 PCAP files in its repository. Check if a malicious behavior is present in a network pcap |
 | [MD5Center](https://md5.gromweb.com/) | Reverse MD5 Hash (with no salt, for other use john or hashcat) |
 | [SHA1Center](https://sha1.gromweb.com/) | Similar website, but for Sha1 reverse |
+| [PhishTank](https://www.phishtank.com/) | Phishing website analysis |
 
 </br>
 
