@@ -173,5 +173,6 @@
 | [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
 | [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | Study notes for the EC-Council Certified Ethical Hacker CEH v12 exam by a3cipher |
 | [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | Collection of free cybersecurity-related e-books available on KnowledgeHub |
+| [awesome-list](https://github.com/mthcht/awesome-lists) | Collection of detection lists, feeds and ioc - SIEM and Firewalls |
 
 
