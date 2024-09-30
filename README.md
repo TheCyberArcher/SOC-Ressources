@@ -54,6 +54,8 @@
 | [SHA1Center](https://sha1.gromweb.com/) | Similar website, but for Sha1 reverse |
 | [PhishTank](https://www.phishtank.com/) | Phishing website analysis |
 | [PulseDive](https://pulsedive.com/) | Ultimate centralized CTI tool, take informations about malware, IP, hash, Mitre tags |
+| [Censys](https://search.censys.io/) | Censys helps you identify exposures that attackers are likely to exploit |
+| [DNSDumpster](https://dnsdumpster.com/) | Ultra powerfull DNS domain recon tool |
 
 </br>
 
